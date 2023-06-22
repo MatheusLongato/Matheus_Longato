@@ -67,11 +67,12 @@ text-align: center;
 }
 
 .rodape{
-    background-color: #000000;
+    background-color: black;
     text-align: center;
 }
 
 .rodape-imagem{
     height: 60px;
     padding: 12px 0;
+   
 }
