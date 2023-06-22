@@ -25,7 +25,6 @@ display: inline-block;
 margin: 0 16px;
 font-size: 24px;
 }
-
 .escola-imagem{
     width: 25%;
 }
@@ -37,6 +36,7 @@ font-size: 24px;
     align-items: center;
     padding: 24px 0;
 }
+
 .escola-div-conteudo{
     width: 35%;
 }
@@ -47,3 +47,7 @@ font-size: 24px;
 .estudante-imagem{
    width: 120px;
     }
+
+.estudante-icone{
+    width: 24px;
+}
